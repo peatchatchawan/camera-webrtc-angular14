@@ -1,0 +1,7 @@
+{
+  "name": "camera-webrtc-angular14",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

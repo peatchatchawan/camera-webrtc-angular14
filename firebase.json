@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "dist/camera-webrtc-angular14",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
